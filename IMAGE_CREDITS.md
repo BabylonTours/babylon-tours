@@ -75,3 +75,17 @@ Fecha de selección: 2026-11-20
 - En caso de duda sobre cualquier imagen, debe reemplazarse por una con licencia verificada.
 
 Referencia de la Licencia Unsplash: https://unsplash.com/license
+
+
+---
+
+## COSTA DE OAXACA — IMÁGENES PROPORCIONADAS POR BABYLON TOURS
+
+| Archivo | Lugar | Autor/Fuente | Plataforma | URL original | Licencia |
+|---------|-------|--------------|------------|--------------|----------|
+| oaxaca-portada-mazunte.jpg | Atardecer en Mazunte / Punta Cometa, Oaxaca | Hersom | Pexels | https://www.pexels.com/photo/12787572 | Pexels License (uso comercial gratuito) |
+| oaxaca-dia-2-puerto-angelito.jpg | Playa Angelito, Puerto Escondido, Oaxaca | Fuente proporcionada por Babylon Tours | — | — | Uso autorizado por Babylon Tours |
+| oaxaca-dia-3-manialtepec.jpg | Bioluminiscencia nocturna, Laguna de Manialtepec, Oaxaca | Fuente proporcionada por Babylon Tours | — | — | Uso autorizado por Babylon Tours |
+| oaxaca-dia-4-carrizalillo.jpg | Playa Carrizalillo, Puerto Escondido, Oaxaca | Fuente proporcionada por Babylon Tours | — | — | Uso autorizado por Babylon Tours |
+
+Pexels License: https://www.pexels.com/license/
