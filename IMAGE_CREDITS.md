@@ -89,3 +89,19 @@ Referencia de la Licencia Unsplash: https://unsplash.com/license
 | oaxaca-dia-4-carrizalillo.jpg | Playa Carrizalillo, Puerto Escondido, Oaxaca | Fuente proporcionada por Babylon Tours | — | — | Uso autorizado por Babylon Tours |
 
 Pexels License: https://www.pexels.com/license/
+
+
+---
+
+## PUERTO VALLARTA — WIKIMEDIA COMMONS (CC)
+
+| Archivo | Lugar | Autor | Plataforma | URL original | Licencia |
+|---------|-------|-------|------------|--------------|----------|
+| vallarta-portada-atardecer.jpg | Bahía de Puerto Vallarta, Jalisco | The ed17 | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Sunset_panorama_over_Puerto_Vallarta,_looking_out_at_the_Pacific_Ocean.jpg | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| vallarta-dia-2-guayabitos.jpg | Playa de Guayabitos, Nayarit | Luisalvaz | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Playa_de_Guayabitos_desde_un_dron_15.jpg | CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/ |
+| vallarta-dia-3-marietas.jpg | Parque Nacional Islas Marietas, Nayarit | Ferfive | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Las_islas_Marietas_desde_un_barco_(11).jpg | CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/ |
+| vallarta-dia-4-tequila.jpg | Plaza principal de Tequila, Jalisco | YdelaT | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Centro_de_Tequila_(4).jpg | CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/ |
+
+Atribución requerida:
+- vallarta-portada (CC BY-SA 4.0): Photo by The ed17, CC BY-SA 4.0, via Wikimedia Commons
+- vallarta-dia-3 (CC BY 4.0): Photo by Ferfive, CC BY 4.0, via Wikimedia Commons
