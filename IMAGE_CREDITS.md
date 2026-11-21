@@ -105,3 +105,29 @@ Pexels License: https://www.pexels.com/license/
 Atribución requerida:
 - vallarta-portada (CC BY-SA 4.0): Photo by The ed17, CC BY-SA 4.0, via Wikimedia Commons
 - vallarta-dia-3 (CC BY 4.0): Photo by Ferfive, CC BY 4.0, via Wikimedia Commons
+
+
+---
+
+## RIVIERA MAYA — WIKIMEDIA COMMONS (CC)
+
+| Archivo | Lugar | Autor | Plataforma | URL original | Licencia |
+|---------|-------|-------|------------|--------------|----------|
+| riviera-portada-playa-del-carmen.jpg | Playa del Carmen, Quintana Roo | Scott S Bateman | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Playa-del-carmen-beach.jpg | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| riviera-dia-2-isla-aguada.jpg | Laguna de Términos, Isla Aguada, Campeche | Bernard DUPONT | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:American_White_and_Brown_Pelicans_-_Laguna_de_Términos,_Campeche_2020.jpg | CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/ |
+| riviera-dia-3-celestun.jpg | Celestún, Yucatán | José Carlos Bernabé Corona Campillo | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:FLAMINGOS.jpg | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| riviera-dia-4-chichen-itza.jpg | Chichén Itzá, Yucatán | Gage Skidmore | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Chichen_Itza_(2026).jpg | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| riviera-dia-5-holbox.jpg | Isla Holbox, Quintana Roo | Bruno Rijsman | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:The_beach_of_Holbox_Island,_Mexico.jpg | CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/ |
+| riviera-dia-6-cancun.jpg | Playa Delfines, Cancún, Quintana Roo | Pikilita1024 | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Playa_Delfines.jpg | CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/ |
+| riviera-dia-7-isla-mujeres.jpg | Playa Norte, Isla Mujeres, Quintana Roo | dronepicr | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Aerial_of_Playa_Norte_on_Isla_Mujeres_(42691228075).jpg | CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/ |
+| riviera-dia-8-bacalar.jpg | Laguna de Bacalar, Quintana Roo | Yosef Ben Melamed | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Bacalar_lagoon.jpg | CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ |
+| riviera-dia-9-agua-azul.jpg | Cascadas de Agua Azul, Chiapas | Oescalona | Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Agua_azul.jpg | CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/ |
+
+Atribución requerida (imágenes CC BY y CC BY-SA):
+- riviera-portada (CC BY-SA 4.0): Photo by Scott S Bateman, CC BY-SA 4.0, via Wikimedia Commons
+- riviera-dia-2 (CC BY-SA 2.0): Photo by Bernard DUPONT, CC BY-SA 2.0, via Wikimedia Commons
+- riviera-dia-3 (CC BY-SA 4.0): Photo by José Carlos Bernabé Corona Campillo, CC BY-SA 4.0, via Wikimedia Commons
+- riviera-dia-4 (CC BY-SA 4.0): Photo by Gage Skidmore, CC BY-SA 4.0, via Wikimedia Commons
+- riviera-dia-5 (CC BY-SA 2.0): Photo by Bruno Rijsman, CC BY-SA 2.0, via Wikimedia Commons
+- riviera-dia-7 (CC BY 2.0): Photo by dronepicr, CC BY 2.0, via Wikimedia Commons
+- riviera-dia-9 (CC BY 4.0): Photo by Oescalona, CC BY 4.0, via Wikimedia Commons
